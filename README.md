@@ -31,8 +31,8 @@
 
 **Сейчас git status на двух ветках такой**
 ![alt text](screenshots/gitstonmain.png)
-![alt text](screenshots/gitstonmybranch.png)
 
+![alt text](screenshots/gitstonmybranch.png)
 
 **2. Создадим файл с именем file1.txt и своим именем. Добавим файл и закоммитим его. Используем git log, чтобы увидеть,что наша ветка указывает на новый коммит.**
 ![alt text](screenshots/gitlogafterfile1txt.png)
