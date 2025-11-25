@@ -4,9 +4,11 @@
 ### На оценку 3
 
 **1. Узнаем на какой ветке мы находимся**
+
 ![alt text](screenshots/git_status.png)
 
 Наш **git log** выглядит так:
+
 ![alt text](screenshots/gitlog.png)
 
 **2. Создадим файл sort.c и вставим туда код функции bubble. Теперь наш **git status** выглядит так:**
@@ -26,10 +28,12 @@
 
 ### Теперь работа с ветками
 **1. Создадим новую ветку и убедимся в этом**
+
 ![alt text](screenshots/git_branch.png)
 
 
 **Сейчас git status на двух ветках такой**
+
 ![alt text](screenshots/gitstonmain.png)
 
 ![alt text](screenshots/gitstonmybranch.png)
