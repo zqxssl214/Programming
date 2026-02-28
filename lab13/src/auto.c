@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "../include/auto.h"
+#include "auto.h"
 
 static char* Names[] = {"Audi", "BMW", "Volkswagen", "Toyota", "Subaru"};
 void fill(struct Auto Cars[], int size) {

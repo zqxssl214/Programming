@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "include/auto.h"
+#include "auto.h"
 
 #define N 5
 
