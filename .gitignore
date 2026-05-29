@@ -7,3 +7,10 @@
 *.rle
 /build
 *.executable
+*.out
+task1
+task2
+task3
+task4
+task5
+a.out
