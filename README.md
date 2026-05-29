@@ -1,6 +1,6 @@
 # **Лабы по программированию. 1 курс**
 
-![alt text](lab9/screenshots/4abfb3df89a9ce6418e7794fbb74eb7a.gif)
+![alt text](lab09/screenshots/4abfb3df89a9ce6418e7794fbb74eb7a.gif)
 
 ## **1-ый семестр**
 ### **[Лабораторная работа №3](lab03)**
