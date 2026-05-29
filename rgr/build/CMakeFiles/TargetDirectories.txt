@@ -1,0 +1,5 @@
+/root/Andrey/Prog/Programming/rgr/build/CMakeFiles/maze.dir
+/root/Andrey/Prog/Programming/rgr/build/CMakeFiles/tests.dir
+/root/Andrey/Prog/Programming/rgr/build/CMakeFiles/test.dir
+/root/Andrey/Prog/Programming/rgr/build/CMakeFiles/edit_cache.dir
+/root/Andrey/Prog/Programming/rgr/build/CMakeFiles/rebuild_cache.dir

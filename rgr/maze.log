@@ -1,0 +1,86 @@
+[Fri May 29 13:49:17 2026][INFO]Program started
+[Fri May 29 13:49:17 2026][INFO]Creating maze 5x5
+[Fri May 29 13:49:17 2026][INFO]Generating maze with backtracking
+[Fri May 29 13:49:17 2026][INFO]Backtracking done
+[Fri May 29 13:49:17 2026][INFO]BFS: path found
+[Fri May 29 13:49:17 2026][INFO]Saved to maze_output.txt
+[Fri May 29 13:49:17 2026][INFO]Program finished
+[Fri May 29 13:49:28 2026][INFO]Program started
+[Fri May 29 13:49:28 2026][WARNING]Even size may cause issues, odd is better
+[Fri May 29 13:49:28 2026][INFO]Creating maze 5x50
+[Fri May 29 13:49:28 2026][INFO]Generating maze with backtracking
+[Fri May 29 13:49:28 2026][INFO]Backtracking done
+[Fri May 29 13:49:28 2026][INFO]BFS have no path!
+[Fri May 29 13:49:28 2026][INFO]Saved to maze_output.txt
+[Fri May 29 13:49:28 2026][INFO]Program finished
+[Fri May 29 13:49:34 2026][INFO]Program started
+[Fri May 29 13:49:34 2026][WARNING]Even size may cause issues, odd is better
+[Fri May 29 13:49:34 2026][INFO]Creating maze 50x5
+[Fri May 29 13:49:34 2026][INFO]Generating maze with backtracking
+[Fri May 29 13:49:34 2026][INFO]Backtracking done
+[Fri May 29 13:49:34 2026][INFO]BFS have no path!
+[Fri May 29 13:49:34 2026][INFO]Saved to maze_output.txt
+[Fri May 29 13:49:34 2026][INFO]Program finished
+[Fri May 29 13:49:41 2026][INFO]Program started
+[Fri May 29 13:49:41 2026][WARNING]Even size may cause issues, odd is better
+[Fri May 29 13:49:41 2026][INFO]Creating maze 50x5
+[Fri May 29 13:49:41 2026][INFO]Generating maze with backtracking
+[Fri May 29 13:49:41 2026][INFO]Backtracking done
+[Fri May 29 13:49:41 2026][INFO]BFS have no path!
+[Fri May 29 13:49:41 2026][INFO]Saved to maze_output.txt
+[Fri May 29 13:49:41 2026][INFO]Program finished
+[Fri May 29 13:49:42 2026][INFO]Program started
+[Fri May 29 13:49:42 2026][WARNING]Even size may cause issues, odd is better
+[Fri May 29 13:49:42 2026][INFO]Creating maze 50x5
+[Fri May 29 13:49:42 2026][INFO]Generating maze with backtracking
+[Fri May 29 13:49:42 2026][INFO]Backtracking done
+[Fri May 29 13:49:42 2026][INFO]BFS have no path!
+[Fri May 29 13:49:42 2026][INFO]Saved to maze_output.txt
+[Fri May 29 13:49:42 2026][INFO]Program finished
+[Fri May 29 13:49:42 2026][INFO]Program started
+[Fri May 29 13:49:42 2026][WARNING]Even size may cause issues, odd is better
+[Fri May 29 13:49:42 2026][INFO]Creating maze 50x5
+[Fri May 29 13:49:42 2026][INFO]Generating maze with backtracking
+[Fri May 29 13:49:42 2026][INFO]Backtracking done
+[Fri May 29 13:49:42 2026][INFO]BFS have no path!
+[Fri May 29 13:49:42 2026][INFO]Saved to maze_output.txt
+[Fri May 29 13:49:42 2026][INFO]Program finished
+[Fri May 29 13:49:42 2026][INFO]Program started
+[Fri May 29 13:49:42 2026][WARNING]Even size may cause issues, odd is better
+[Fri May 29 13:49:42 2026][INFO]Creating maze 50x5
+[Fri May 29 13:49:42 2026][INFO]Generating maze with backtracking
+[Fri May 29 13:49:42 2026][INFO]Backtracking done
+[Fri May 29 13:49:42 2026][INFO]BFS have no path!
+[Fri May 29 13:49:42 2026][INFO]Saved to maze_output.txt
+[Fri May 29 13:49:42 2026][INFO]Program finished
+[Fri May 29 13:49:43 2026][INFO]Program started
+[Fri May 29 13:49:43 2026][WARNING]Even size may cause issues, odd is better
+[Fri May 29 13:49:43 2026][INFO]Creating maze 50x5
+[Fri May 29 13:49:43 2026][INFO]Generating maze with backtracking
+[Fri May 29 13:49:43 2026][INFO]Backtracking done
+[Fri May 29 13:49:43 2026][INFO]BFS have no path!
+[Fri May 29 13:49:43 2026][INFO]Saved to maze_output.txt
+[Fri May 29 13:49:43 2026][INFO]Program finished
+[Fri May 29 13:49:44 2026][INFO]Program started
+[Fri May 29 13:49:44 2026][WARNING]Even size may cause issues, odd is better
+[Fri May 29 13:49:44 2026][INFO]Creating maze 50x5
+[Fri May 29 13:49:44 2026][INFO]Generating maze with backtracking
+[Fri May 29 13:49:44 2026][INFO]Backtracking done
+[Fri May 29 13:49:44 2026][INFO]BFS have no path!
+[Fri May 29 13:49:44 2026][INFO]Saved to maze_output.txt
+[Fri May 29 13:49:44 2026][INFO]Program finished
+[Fri May 29 13:49:44 2026][INFO]Program started
+[Fri May 29 13:49:44 2026][WARNING]Even size may cause issues, odd is better
+[Fri May 29 13:49:44 2026][INFO]Creating maze 50x5
+[Fri May 29 13:49:44 2026][INFO]Generating maze with backtracking
+[Fri May 29 13:49:44 2026][INFO]Backtracking done
+[Fri May 29 13:49:44 2026][INFO]BFS have no path!
+[Fri May 29 13:49:44 2026][INFO]Saved to maze_output.txt
+[Fri May 29 13:49:44 2026][INFO]Program finished
+[Fri May 29 13:49:50 2026][INFO]Program started
+[Fri May 29 13:49:50 2026][INFO]Creating maze 15x5
+[Fri May 29 13:49:50 2026][INFO]Generating maze with backtracking
+[Fri May 29 13:49:50 2026][INFO]Backtracking done
+[Fri May 29 13:49:50 2026][INFO]BFS: path found
+[Fri May 29 13:49:50 2026][INFO]Saved to maze_output.txt
+[Fri May 29 13:49:50 2026][INFO]Program finished

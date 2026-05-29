@@ -3,4 +3,6 @@
 *.so
 *.o
 *.exe
+*.dat
+*.rle
 /build

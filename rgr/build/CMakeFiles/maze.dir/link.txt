@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/maze.dir/src/main.cpp.o CMakeFiles/maze.dir/src/maze.cpp.o CMakeFiles/maze.dir/src/logger.cpp.o -o maze 
